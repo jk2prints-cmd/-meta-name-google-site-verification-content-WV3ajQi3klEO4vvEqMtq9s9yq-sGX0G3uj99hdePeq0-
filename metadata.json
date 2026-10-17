@@ -1,0 +1,7 @@
+{
+  "name": "IronForge - Gym, Workout & Nutrition Mastery",
+  "description": "Comprehensive gym platform featuring complete exercise guides, workout splits, evidence-based nutrition plans, and progress tracking tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
